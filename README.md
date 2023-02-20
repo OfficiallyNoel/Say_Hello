@@ -1,2 +1,2 @@
 # Say_Hello
-a new hello world 
+starting my journey with git. 
